@@ -96,16 +96,20 @@ These snippets illustrate the flexibility and applicability of various color seg
 
 ## Input Images
 * Original RGB image.
+  
 ![RGB_Image](img/image.jpg)
 
 ## Output Images
 * Image Segmentation (HSV method):
+  
 ![HSV](img/hue1.jpg)
 
 * HSV2RGB image:
+  
 ![hsv2rgb](img/hue2.jpg)
 
 * Histogram:
+  
 ![Histogram](img/histogram.jpg)
 
 
