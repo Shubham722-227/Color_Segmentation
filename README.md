@@ -115,7 +115,7 @@ These snippets illustrate the flexibility and applicability of various color seg
 ## Conclusion
 In conclusion, this project highlights the significance of color segmentation in computer vision. It demonstrates how different color spaces and thresholding methods can be used to extract objects from images. Notably, segmenting based on the hue in the HSV color space can be more precise, especially when dealing with objects of various colors. The choice of segmentation technique depends on the specific requirements of the task.
 
-###if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+### if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/techs4shubq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Authors
