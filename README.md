@@ -9,9 +9,8 @@ In this project, we address the challenge of segmenting objects in images based 
     1. Using intensity-based thresholding to segment the image.
     2. Converting the image to grayscale by averaging the RGB channels.
     3. Applying RGB channel thresholds to isolate objects.
-    4. Optionally, for 481 students, using automatic thresholding.
-    5. Segmenting based on the hue component in HSI/HSV color space.
-    6. Comparing and selecting the most effective segmentation method.
+    4. Segmenting based on the hue component in HSI/HSV color space.
+    5. Comparing and selecting the most effective segmentation method.
 This project showcases the versatility of color segmentation techniques
 
 
